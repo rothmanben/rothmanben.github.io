@@ -1,3 +1,8 @@
+---
+layout: post
+title: Instagram's pointless layout update
+---
+
 **GOOD DESIGN VS BAD DESIGN**
 
 ![Before](https://static3.srcdn.com/wordpress/wp-content/uploads/2020/08/IG-Caught-up.jpg)
