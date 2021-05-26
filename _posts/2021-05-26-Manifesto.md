@@ -1,11 +1,45 @@
-**GOOD DESIGN VS BAD DESIGN**
+**TREAT YOUR DESIGN LIKE IT’S PB&J**
 
-![Before](https://static3.srcdn.com/wordpress/wp-content/uploads/2020/08/IG-Caught-up.jpg)
+![Sandwich 1](https://recipesformen.com/wp-content/uploads/2019/10/peanutbutter-and-jelly-sandwich.jpg)
 
-GOOD DESIGN:
-Before Instagram's latest update, the app would notify the user once they had seen all new posts from people they followed. This was signified by the checkmark icon. While there may not have been much usefulness for this feature, it was a nice and subtle way of letting the user know that he/she/they was all caught up and did not need to scroll further.
+You want to make a sandwich. You want to make a website. Making a sandwich is easy, you think. Grab two pieces of bread; grab a knife, spread peanut butter and jelly on the pieces of bread; press the pieces of bread together; eat the sandwich. But, you think, designing a website is hard. And it IS, but it’s a lot easier to design a website when you treat it like you’re making a sandwich.
 
-![After](https://cdn.vox-cdn.com/thumbor/3NtkqgKUmPjgyUuPN7PPp5CGVMM=/0x0:4096x2645/1200x800/filters:focal(1721x996:2375x1650)/cdn.vox-cdn.com/uploads/chorus_image/image/67225990/Suggested_Posts_in_Feed.0.png)
+1. Pieces of Bread
 
-BAD DESIGN:
-After the latest update, Instagram has changed the affordance of this "checkmark" to instead lead into suggested posts. To access older content, the user will now have to click the small block of text under the icon. This update not only messes with the muscle memory of longtime users, it is also incredibly redundant. What is different about these "suggested posts" that distinguishes it from the already existing "explore page" that is one swipe away? If the app developers are so insistent on this new homepage layout, I propose that they at least replace the explore page with a place to view older posts from a person's friends.
+![Sandwich 1](https://recipesformen.com/wp-content/uploads/2019/10/peanutbutter-and-jelly-sandwich.jpg)
+
+Bread is obviously the most essential part of making a sandwich. Two pieces of bread to be exact. In this parallel, the two pieces of bread are meant to represent the most essential parts of your design: the template (such as GitHub for websites, or Canva for designs), and the content itself (text, images, etc). You cannot have a sandwich with just one piece of bread, and you cannot have a design without content and a place to put that content onto. Just like how you can press two pieces of bread together and technically call it a sandwich, you can TECHNICALLY have a design with just these two essentials. That would be really boring though.
+
+![Sandwich 1](https://recipesformen.com/wp-content/uploads/2019/10/peanutbutter-and-jelly-sandwich.jpg)
+
+2. Your Knife
+
+![Sandwich 1](https://recipesformen.com/wp-content/uploads/2019/10/peanutbutter-and-jelly-sandwich.jpg)
+
+This part comes down to personal preference, but I can say that I don’t like to spread my peanut butter and jelly on my sandwich with a spoon or a fork. I like to get to the point and use a knife. When you’re making a design, you need to get out of your own head and not worry about filling every corner with elaborate details immediately. Sure, you’ll be able to build out your design into something beautiful, but the most important thing from the get-go is to be precise, sharp, and potentially minimalist. For example, I love music and the visuals that come along with it, and I think the best album covers are ones that tell you exactly what to focus on, even if the cover itself is elaborate. The album cover for Kid Cudi’s Man On The Moon III is complex and elaborate, for instance, but still draws the listener’s eye to Cudi’s head in the front.
+
+![Sandwich 1](https://recipesformen.com/wp-content/uploads/2019/10/peanutbutter-and-jelly-sandwich.jpg)
+
+3. Peanut Butter
+
+![Sandwich 1](https://recipesformen.com/wp-content/uploads/2019/10/peanutbutter-and-jelly-sandwich.jpg)
+
+Peanut butter is sticky. Your design needs to stick. When you’re designing, especially if that design involves a lot of writing in it, you need to make sure that your language is ear-grabbing and eye-grabbing. Be funny, be shocking, or be emotional to draw the viewer more into what you’re trying to say. Starting an article, for example, with a title like the image below is a FANTASTIC way to take your reader aback, and make them wonder what the content of the design has in store. This hook doesn’t have to taste the best (that’s what the “jelly” is for) but it does need to cause intrigue.
+
+![Sandwich 1](https://recipesformen.com/wp-content/uploads/2019/10/peanutbutter-and-jelly-sandwich.jpg)
+
+4. Jelly
+
+![Sandwich 1](https://recipesformen.com/wp-content/uploads/2019/10/peanutbutter-and-jelly-sandwich.jpg)
+
+If peanut butter adds stickiness to a sandwich, the jelly that accompanies it is the part that’s flashy, appealing, and pleasant to look at. This generally would manifest itself in the choice of color and specific images that you go with. You want diagrams and pictures that pop and are symmetrical, with no obvious flaws that could make your viewer recoil. Color-wise, you want great patterns and thematic consistency or progression that your viewer can subconsciously acknowledge or even consciously notice and praise. Take note of how iconic the colors of some sports teams are. Colors and patterns add a flavor to your design that perfectly compliments, and does not overpower, the stickiness of it.
+
+![Sandwich 1](https://recipesformen.com/wp-content/uploads/2019/10/peanutbutter-and-jelly-sandwich.jpg)
+
+5. Take a Bite!
+
+![Sandwich 1](https://recipesformen.com/wp-content/uploads/2019/10/peanutbutter-and-jelly-sandwich.jpg)
+
+So you made your sandwich. You took your pieces of bread (the template and basic content), and you used a knife (a sharp, focused style) to spread your peanut butter (elements that stick) and your jelly (elements that look good). The final piece of the process is to bite down on it. Load up the design, look at it yourself and scrutinize it. If you feel like you’re too biased, show it to family, friends, or acquaintances. Get honest feedback, and see if you need to rework any of the parts of the sandwich, or design, to make it go down better.
+
+Making a sandwich is easy, so hopefully treating your design like a sandwich will make it so that making your design is easier too. Here’s another picture of a sandwich.
